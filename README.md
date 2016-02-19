@@ -1,12 +1,16 @@
 <h1 align="center">
 	<br>
-	<img src="/unity.png" alt="awesome">
+	<img src="/unity-logo.png" alt="awesome">
 	<br>
 	<br>
 	<br>
 </h1>
 
+
+
 A list of useful Unity Game Development tools and resources.
+
+
 
 ## Table of Contents
 
