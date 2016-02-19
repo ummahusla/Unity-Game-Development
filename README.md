@@ -1,4 +1,10 @@
-<img style="display: block; margin-left: auto; margin-right: auto" src="/unity.png"/>
+<h1 align="center">
+	<br>
+	<img src="/unity.png" alt="awesome">
+	<br>
+	<br>
+	<br>
+</h1>
 
 A list of useful Unity Game Development tools and resources.
 
