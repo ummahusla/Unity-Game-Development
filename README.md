@@ -1,3 +1,5 @@
+<img src="/unity-logo.png"/>
+
 A list of useful Unity Game Development tools and resources.
 
 ## Table of Contents
