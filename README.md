@@ -1,5 +1,3 @@
-<img src="/unity-logo.png"/>
-
 A list of useful Unity Game Development tools and resources.
 
 ## Table of Contents
@@ -16,6 +14,7 @@ A list of useful Unity Game Development tools and resources.
 * [Tile Editors](#tile-editors)
 * [Pixel Editors](#pixel-editors)
 * [Vector Editors](#vector-editors)
+* [Sound Editors](#sound-editors)
 * [3D Modeling](#3d-modeling)
 * [Other](#other)
 * [Articles](#articles)
@@ -45,6 +44,8 @@ A list of useful Unity Game Development tools and resources.
 ## Pixel Editors
 
 ## Vector Editors
+
+## Sound Editors
 
 ## 3D Modeling
 
