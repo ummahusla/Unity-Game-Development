@@ -38,6 +38,10 @@ A list of useful Unity Game Development tools and resources.
 
 ## Unity Tutorials
 * [Unity 3D Official Tutorials](https://unity3d.com/learn/tutorials)
+* [Learn to Code by Making Games - The Complete Unity Developer](https://www.udemy.com/unitycourse)
+* [Unity3D Professional 2D Game Development From A to Z](https://www.udemy.com/unity3d-professional-2d-game-development-from-a-to-z/)
+* [Make a Unity 2D Physics Game - For Beginners](https://www.udemy.com/unity-2d-bouncing-and-sliding-with-physics/)
+* [Unity 3D Game Development | 3D Engine Fundamentals](https://www.udemy.com/game-development-3d-engine-fundamentals/)
 
 
 ## Game Development
@@ -45,6 +49,7 @@ A list of useful Unity Game Development tools and resources.
 * [Introduction to Game Development Extra Credits](https://www.youtube.com/watch?v=z06QR-tz1_o)
 * [Game Development for Modern Platforms Coursera](https://www.coursera.org/learn/gamedev-platforms/)
 * [Linear algebra for game developers](http://blog.wolfire.com/2009/07/linear-algebra-for-game-developers-part-1/)
+* [2D Game Art for Non-Artists](https://www.udemy.com/2d-game-art-for-non-artists/)
 
 ## Game Design
 * [Introduction to Game Design Coursera](https://www.coursera.org/learn/game-design/)
