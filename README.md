@@ -44,6 +44,15 @@ A list of useful Unity Game Development tools and resources.
 ## Assets
 
 ## Icons
+* [App Icon Template](http://appicontemplate.com/)
+* [Find Icons](http://findicons.com/)
+* [Flaticon](http://www.flaticon.com/)
+* [Freebiesbug](http://freebiesbug.com/psd-freebies/icons)
+* [Game-icons](http://game-icons.net/)
+* [Iconmonstr](http://iconmonstr.com/)
+* [Icons8](https://icons8.com/)
+* [Iconizer](http://iconizer.net/)
+* [The Noun Project](https://thenounproject.com/)
 
 ## Sounds
 
