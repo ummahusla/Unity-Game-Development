@@ -30,16 +30,25 @@ A list of useful Unity Game Development tools and resources.
 * [3D Modeling](#3d-modeling)
 * [Other](#other)
 * [Articles](#articles)
+* [Blogs](#blogs)
 
 
 
 ## C Tutorials
 
 ## Unity Tutorials
+* [Unity 3D Official Tutorials](https://unity3d.com/learn/tutorials)
+
 
 ## Game Development
+* [Introduction to Game Development Coursera](https://www.coursera.org/learn/game-development/)
+* [Introduction to Game Development Extra Credits](https://www.youtube.com/watch?v=z06QR-tz1_o)
+* [Game Development for Modern Platforms Coursera](https://www.coursera.org/learn/gamedev-platforms/)
+* [Linear algebra for game developers](http://blog.wolfire.com/2009/07/linear-algebra-for-game-developers-part-1/)
 
 ## Game Design
+* [Introduction to Game Design Coursera](https://www.coursera.org/learn/game-design/)
+* [Principles of Game Design Coursera](https://www.coursera.org/learn/gamedesign)
 
 ## Assets
 
@@ -71,5 +80,10 @@ A list of useful Unity Game Development tools and resources.
 ## 3D Modeling
 
 ## Other
+* [Business of Games and Entrepreneurship](https://www.coursera.org/learn/gamedev-business/)
+* [Story and Narrative Development for Video Games](https://www.coursera.org/learn/video-game-story)
 
 ## Articles
+
+## Blogs
+* [The Knights of Unity Blog](http://blog.theknightsofunity.com/)
