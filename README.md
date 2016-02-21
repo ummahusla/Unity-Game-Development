@@ -75,6 +75,11 @@ A list of useful Unity Game Development tools and resources.
 ## Animation
 
 ## Tile Editors
+* [Tile Map Editor](http://www.mapeditor.org/)
+* [Overlap2D](http://overlap2d.com/)
+* [Tile Studio](http://tilestudio.sourceforge.net/)
+* [Array Painter](http://www.arraypainter.com/)
+* [Auto Tile Gen](http://store.steampowered.com/app/305860/)
 
 ## Pixel Editors
 
