@@ -84,6 +84,8 @@ A list of useful Unity Game Development tools and resources.
 ## Pixel Editors
 
 ## Vector Editors
+* [Inskape](https://inkscape.org/)
+* [Adobe Illustrator](http://www.adobe.com/uk/products/illustrator.html)
 
 ## Sound Editors
 
