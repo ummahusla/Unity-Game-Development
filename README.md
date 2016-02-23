@@ -34,7 +34,7 @@ A list of useful Unity Game Development tools and resources.
 
 
 
-## C Tutorials
+## C# Tutorials
 
 ## Unity Tutorials
 * [Unity 3D Official Tutorials](https://unity3d.com/learn/tutorials)
