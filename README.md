@@ -38,11 +38,14 @@ A list of useful Unity Game Development tools and resources.
 
 ## Unity Tutorials
 * [Unity 3D Official Tutorials](https://unity3d.com/learn/tutorials)
+* [Unity Basics by TeamTreeHouse](https://teamtreehouse.com/library/unity-basics)
 * [Learn to Code by Making Games - The Complete Unity Developer](https://www.udemy.com/unitycourse)
 * [Unity3D Professional 2D Game Development From A to Z](https://www.udemy.com/unity3d-professional-2d-game-development-from-a-to-z/)
 * [Make a Unity 2D Physics Game - For Beginners](https://www.udemy.com/unity-2d-bouncing-and-sliding-with-physics/)
 * [Unity 3D Game Development | 3D Engine Fundamentals](https://www.udemy.com/game-development-3d-engine-fundamentals/)
-
+* [How to Make a Video Game by TeamTreeHouse](https://teamtreehouse.com/library/how-to-make-a-video-game)
+* [Materials in Unity by TeamTreeHouse](https://teamtreehouse.com/library/materials-in-unity)
+* [Image Effects in Unity by TeamTreeHouse](https://teamtreehouse.com/library/image-effects-in-unity)
 
 ## Game Development
 * [Introduction to Game Development Coursera](https://www.coursera.org/learn/game-development/)
