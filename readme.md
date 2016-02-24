@@ -35,6 +35,8 @@ A list of useful Unity Game Development tools and resources.
 
 
 ## C# Tutorials
+* [C# Coding Guidelines](http://www.gamasutra.com/blogs/LindsayCox/20141215/232280/C_Coding_Guidelines_for_my_Personal_Projects__The_2014_edition.php)
+* [Unity Serialization](http://forum.unity3d.com/threads/serialization-best-practices-megapost.155352/)
 
 ## Unity Tutorials
 * [Unity 3D Official Tutorials](https://unity3d.com/learn/tutorials)
@@ -46,6 +48,7 @@ A list of useful Unity Game Development tools and resources.
 * [How to Make a Video Game by TeamTreeHouse](https://teamtreehouse.com/library/how-to-make-a-video-game)
 * [Materials in Unity by TeamTreeHouse](https://teamtreehouse.com/library/materials-in-unity)
 * [Image Effects in Unity by TeamTreeHouse](https://teamtreehouse.com/library/image-effects-in-unity)
+* [Unity Design Patterns](https://www.reddit.com/r/Unity3D/comments/1nb06h/unity_design_patterns_and_concepts_looking_for)
 
 ## Game Development
 * [Introduction to Game Development Coursera](https://www.coursera.org/learn/game-development/)
