@@ -62,6 +62,7 @@ A list of useful Unity Game Development tools and resources.
 * [Principles of Game Design Coursera](https://www.coursera.org/learn/gamedesign)
 
 ## Assets
+* [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 
 ## Icons
 * [App Icon Template](http://appicontemplate.com/)
